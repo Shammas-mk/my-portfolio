@@ -1,0 +1,344 @@
+{
+    "name": "شماس م.ك",
+    "description": "مطور تطبيقات الهاتف المحمول",
+    "subDescription": "مطور Flutter",
+    "contacts": [
+        {
+            "tooltip": "Github",
+            "url": "https://github.com/shammas-mk",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome"
+            }
+        },
+        {
+            "tooltip": "Twitter",
+            "url": "https://twitter.com/shammas-mk",
+            "icon": {
+                "codePoint": "0xf0ea",
+                "fontFamily": "FontAwesome"
+            }
+        },
+        {
+            "tooltip": "LinkedIn",
+            "url": "https://www.linkedin.com/in/shammas-mk",
+            "icon": {
+                "codePoint": "0xeffb",
+                "fontFamily": "FontAwesome"
+            }
+        },
+        {
+            "tooltip": "shammas.dev@gmail.com",
+            "url": "mailto:shammas.dev@gmail.com",
+            "icon": {
+                "codePoint": "0xeaad",
+                "fontFamily": "FontAwesome"
+            }
+        },
+        {
+            "tooltip": "+966 566 294 753",
+            "url": "tel:+966566294753",
+            "icon": {
+                "codePoint": "0xecbb",
+                "fontFamily": "FontAwesome"
+            }
+        }
+    ],
+    "resumes": [
+        {
+            "languageCode": "en",
+            "url": "https://drive.google.com/file/d/1jGSldxAcwLuQj1Vr92I05hNGJ6IPM2sG/view?usp=sharing"
+        },
+        {
+            "languageCode": "ar",
+            "url": "https://drive.google.com/file/d/1TNotjiV1nenS-t_L3GZ7oBE62ycLTlqd/view?usp=sharing"
+        }
+    ],
+    "aboutDescription": "مطور Flutter مبتكر وهادف لتحقيق النتائج، بخبرة 3 سنوات في بناء تطبيقات جوال وويب عالية الأداء وقابلة للتطوير. يتمتع بمهارة في قيادة الفرق، وتصميم حلول التطبيقات، ودمج ميزات متقدمة مثل بوابات الدفع، والتتبع الفوري، والتوطين، والخدمات القائمة على Firebase. يتمتع بفهم عميق لتقنيات إدارة الحالة، وواجهات برمجة التطبيقات RESTful، وممارسات البرمجة النظيفة. يتفوق في التطوير السريع، وتعزيز التعاون بين الفرق، وتقديم تطبيقات تُحسّن أداء الأعمال وتعزز تفاعل المستخدمين.",
+    "experiences": [
+        {
+            "role": "مطور Flutter",
+            "company": "Init Lync Technologies Pvt Ltd",
+            "description": "في شركة Init Lync Technologies، عملت كمطور Flutter، وتمت ترقيتي إلى قائد فريق خلال ثلاثة أشهر. قاد تطوير تطبيق تجارة إلكترونية متعدد البائعين مع تكاملات دفع ومصادقة ثنائية، بالإضافة إلى إدارة فريق من المطورين والإشراف على تطبيق CI/CD. وقد ساهمت جهودنا بشكل ملحوظ في تحسين تفاعل المستخدمين وتبسيط سير عمل التطوير.",
+            "isPresent": true,
+            "startYear": 2023,
+            "startMonth": 8,
+            "endYear": 2024,
+            "endMonth": 12,
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/icons/other/firebase.svg"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://initlync.com",
+                    "display": "Init Lync Technologies Pvt Ltd"
+                },
+                {
+                    "url": "https://initlync.com/easyclick/",
+                    "display": "EasyClick"
+                }
+            ]
+        },
+        {
+            "role": "مطور Flutter",
+            "company": "Ritual Softech",
+            "description": "في شركة Ritual Softech، طوّرتُ وقدّمتُ تطبيقين جاهزين للإنتاج لتوصيل الطعام، هما SMS Fish and Meat وKKChicken، يتضمنان وحداتٍ للمستخدمين والسائقين والمسؤولين. دمجتُ ميزاتٍ مثل مصادقة Firebase OTP، وتحديثات الطلبات الآنية، وحجز المواقع عبر خرائط جوجل، وبوابات دفع متعددة، جميعها مبنية على بنية Flutter قابلة للتطوير والصيانة.",
+            "isPresent": false,
+            "startYear": 2023,
+            "startMonth": 5,
+            "endYear": 2023,
+            "endMonth": 8,
+            "technologies": [
+               {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/icons/other/firebase.svg"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://",
+                    "display": "Ritual Softech"
+                }
+            ]
+        },
+        {
+            "role": "مطور Flutter",
+            "company": "Loadrunnr Technologies India Pvt Ltd",
+            "description": "في شركة Loadrunnr Technologies، ساهمتُ في تطوير تطبيق نقل يتميز بميزات مثل الطلبات متعددة التوقفات، وحجوزات الإيجار، وتتبع التوصيلات في الوقت الفعلي. دمجتُ مدفوعات Paytm وخرائط Google للتتبع المباشر، وطبّقتُ دعمًا متعدد اللغات باستخدام GetX ببنية معيارية.",
+            "startYear": 2022,
+            "startMonth": 5,
+            "endYear": 2023,
+            "endMonth": 1,
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/icons/other/firebase.svg"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://loadrunnr.in",
+                    "display": "Loadrunnr Technologies India Pvt Ltd"
+                }
+            ]
+        },
+        {
+            "role": "مطور Flutter",
+            "company": "AppMaking.com",
+            "description": "في AppMaking.com، عملت كمطور متدرب في Flutter، حيث ركزت على تطبيق إدارة حالة GetX، وتكامل Firebase، وواجهات برمجة التطبيقات RESTful. ساهمت في تحسينات واجهة المستخدم، وإصلاح الأخطاء، وتحسين الأداء العام للتطبيقات الحالية.",
+            "startYear": 2021,
+            "startMonth": 10,
+            "endYear": 2022,
+            "endMonth": 1,
+            "technologies": [
+               {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/icons/other/firebase.svg"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://appmaking.com",
+                    "display": "AppMaking.com"
+                }
+            ]
+        }
+    ],
+    "present": "هنا",
+    "projects": [
+        {
+            "name": "مَلَفّ",
+            "description": "This open source project allows anyone to have an online portfolio in less than 10 minutes. It follows a riverpod-based architecture, using a feature-first approach for its structure. It is fully responsive and supports multiple themes as well as multiple languages.",
+            "url": "https://github.com/shammas-mk/portfolio#readme",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/portfolio.png",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://brittanychiang.com",
+                    "display": "Inspired by Brittany Chiang"
+                }
+            ]
+        },
+        {
+            "name": "Learn Flow Backoffice",
+            "description": "Learn Flow is a collaborative project focused on creating a solution that connects students and teachers. This is the back-office build for managers in the Learn Flow project. This Single-Page App enables them to monitor activity such as user traffic and invoices associated with their applications and users.",
+            "url": "https://github.com/AladdineDev/learnflow_backoffice#readme",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/learnflow-backoffice.png",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "GSB-Frais",
+            "description": "The GSB-Frais project is a web-based expense management application developed for medical representatives and accountants at the fictional company GSB. It facilitates the entry and review of monthly reports by medical representatives, while enabling accountants to process them.",
+            "url": "https://github.com/AladdineDev/GSB-Frais#readme",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/gsb-frais.png",
+            "technologies": [
+                {
+                    "name": "Symfony",
+                    "icon": {
+                        "codePoint": "0xf0ab",
+                        "fontFamily": "FontAwesome"
+                    }
+                },
+                {
+                    "name": "PHP",
+                    "icon": {
+                        "codePoint": "0xef29",
+                        "fontFamily": "BoxIcons"
+                    }
+                },
+                {
+                    "name": "Bootstrap",
+                    "icon": {
+                        "assetName": "assets/icons/other/bootstrap.svg"
+                    }
+                },
+                {
+                    "name": "MariaDB",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/mariadb.svg"
+                    }
+                },
+                {
+                    "name": "Docker",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/docker.svg"
+                    }
+                }
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "code": "en",
+            "name": "إنجليزي",
+            "nativeName": "إنجليزي",
+            "icon": {
+                "assetName": "assets/icons/flags/united-states-of-america.svg"
+            }
+        },
+        
+        {
+            "code": "ar",
+            "name": "عربي",
+            "nativeName": "عربي",
+            "icon": {
+                "assetName": "assets/icons/flags/uae.svg"
+            }
+        }
+    ],
+    "bottomBanner": {
+        "message": "Open source portfolio -",
+        "displayLink": "Fork it",
+        "linkUrl": "https://github.com/AladdineDev/portfolio#readme"
+    },
+    "portfolio": "مَلَفّ",
+    "homeSectionTitle": "بيت",
+    "aboutSectionTitle": "عن",
+    "aboutSectionTitleAlt": "ْعَنِّي",
+    "experienceSectionTitle": "خبرة",
+    "projectsSectionTitle": "المشاريع",
+    "resume": "ملخص",
+    "downloadResume": "تنزيل السيرة الذاتية",
+    "openUrlError": "لم أتمكن من فتح الرابط",
+    "unknownLanguageError": "لغة غير معروفة"
+}
