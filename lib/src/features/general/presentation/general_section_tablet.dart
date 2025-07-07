@@ -61,10 +61,10 @@ class GeneralTablet extends ConsumerWidget {
                                 ExperienceSection(
                                   key: ref.watch(experienceSectionKeyProvider),
                                 ),
-                                //gapH100,
-                                // ProjectSection(
-                                //   key: ref.watch(projectSectionKeyProvider),
-                                // ),
+                                gapH100,
+                                ProjectSection(
+                                  key: ref.watch(projectSectionKeyProvider),
+                                ),
                               ],
                             ),
                           ),

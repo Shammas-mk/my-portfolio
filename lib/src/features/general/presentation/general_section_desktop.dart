@@ -92,10 +92,10 @@ class GeneralDesktop extends ConsumerWidget {
                                       key: ref
                                           .watch(experienceSectionKeyProvider),
                                     ),
-                                    // const SizedBox(height: 120),
-                                    // ProjectSection(
-                                    //   key: ref.watch(projectSectionKeyProvider),
-                                    // ),
+                                    const SizedBox(height: 120),
+                                    ProjectSection(
+                                      key: ref.watch(projectSectionKeyProvider),
+                                    ),
                                   ],
                                 ),
                               ),

@@ -207,8 +207,8 @@
     "projects": [
         {
             "name": "Portfolio",
-            "description": "This open source project allows anyone to have an online portfolio in less than 10 minutes. It follows a riverpod-based architecture, using a feature-first approach for its structure. It is fully responsive and supports multiple themes as well as multiple languages.",
-            "url": "https://github.com/shammas-mk/portfolio#readme",
+            "description": "Responsive personal site with dark mode, internationalization, and Riverpod architecture. Built using Flutter Web and deployed via GitHub Pages.",
+            "url": "https://github.com/Shammas-mk/my-portfolio",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
@@ -231,21 +231,21 @@
             ],
             "links": [
                 {
-                    "url": "https://brittanychiang.com",
-                    "display": "Inspired by Brittany Chiang"
+                    "url": "",
+                    "display": ""
                 }
             ]
         },
         {
-            "name": "Learn Flow Backoffice",
-            "description": "Learn Flow is a collaborative project focused on creating a solution that connects students and teachers. This is the back-office build for managers in the Learn Flow project. This Single-Page App enables them to monitor activity such as user traffic and invoices associated with their applications and users.",
-            "url": "https://github.com/AladdineDev/learnflow_backoffice#readme",
+            "name": "Car Control App",
+            "description": "Conceptual Flutter project that simulates remote car control functions (e.g., lock/unlock, lights).Designed a responsive control UI to demonstrate real-world interface building for IoT/connected devices.",
+            "url": "https://github.com/Shammas-mk/car-control-app?tab=readme-ov-file#car_control_app",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
                 "color": "0xffffffff"
             },
-            "screenshotPath": "assets/images/learnflow-backoffice.png",
+            "screenshotPath": "assets/images/car_control.png",
             "technologies": [
                 {
                     "name": "Flutter",
@@ -262,46 +262,51 @@
             ]
         },
         {
-            "name": "GSB-Frais",
-            "description": "The GSB-Frais project is a web-based expense management application developed for medical representatives and accountants at the fictional company GSB. It facilitates the entry and review of monthly reports by medical representatives, while enabling accountants to process them.",
-            "url": "https://github.com/AladdineDev/GSB-Frais#readme",
+            "name": "ChatGPT App",
+            "description": "A Flutter-based frontend for interacting with OpenAI’s ChatGPT API. Includes async request handling, text stream rendering, and clean user experience design. Built for experimentation with conversational UI/UX",
+            "url": "https://github.com/Shammas-mk/chat_GPT?tab=readme-ov-file#chat_gpt",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
                 "color": "0xffffffff"
             },
-            "screenshotPath": "assets/images/gsb-frais.png",
+            "screenshotPath": "assets/images/chat_gpt.png",
             "technologies": [
                 {
-                    "name": "Symfony",
+                    "name": "Flutter",
                     "icon": {
-                        "codePoint": "0xf0ab",
-                        "fontFamily": "FontAwesome"
+                        "assetName": "assets/icons/software-development/flutter.svg"
                     }
                 },
                 {
-                    "name": "PHP",
+                    "name": "Dart",
                     "icon": {
-                        "codePoint": "0xef29",
-                        "fontFamily": "BoxIcons"
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Dictonary App",
+            "description": "A Flutter app using the Owlbot Dictionary API to fetch word definitions with modern UI, async HTTP calls, and error handling. Demonstrates API integration, JSON parsing, and UI presentation in Flutter.",
+            "url": "https://github.com/Shammas-mk/Dictionary_app?tab=readme-ov-file#dictonaryapp",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/dictonary.png",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
                     }
                 },
                 {
-                    "name": "Bootstrap",
+                    "name": "Dart",
                     "icon": {
-                        "assetName": "assets/icons/other/bootstrap.svg"
-                    }
-                },
-                {
-                    "name": "MariaDB",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/mariadb.svg"
-                    }
-                },
-                {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/docker.svg"
+                        "assetName": "assets/icons/other/dart.svg"
                     }
                 }
             ]

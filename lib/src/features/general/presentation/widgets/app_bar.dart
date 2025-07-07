@@ -72,12 +72,12 @@ class MyAppBar extends ConsumerWidget {
                       );
                     },
                   ),
-                  // AppBarButton(
-                  //   title: tr(LocaleKeys.projectsSectionTitle),
-                  //   onPressed: () {
-                  //     _onAppBarButtonTap(ref.watch(projectSectionKeyProvider));
-                  //   },
-                  // ),
+                  AppBarButton(
+                    title: tr(LocaleKeys.projectsSectionTitle),
+                    onPressed: () {
+                      _onAppBarButtonTap(ref.watch(projectSectionKeyProvider));
+                    },
+                  ),
                   _buildLocaleButton(context, ref),
                   gapW8,
                   const DarkModeSwitch(),
