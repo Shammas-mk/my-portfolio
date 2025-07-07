@@ -1,0 +1,770 @@
+// DO NOT EDIT. This is code generated via package:easy_localization/generate.dart
+
+// ignore_for_file: prefer_single_quotes, avoid_renaming_method_parameters, constant_identifier_names
+
+import 'dart:ui';
+
+import 'package:easy_localization/easy_localization.dart' show AssetLoader;
+
+class CodegenLoader extends AssetLoader{
+  const CodegenLoader();
+
+  @override
+  Future<Map<String, dynamic>?> load(String path, Locale locale) {
+    return Future.value(mapLocales[locale.toString()]);
+  }
+
+  static const Map<String,dynamic> _en = {
+  "name": "Shammas Mk",
+  "description": "Flutter Developer",
+  "subDescription": "Cross Platform Application Developer",
+  "contacts": [
+    {
+      "tooltip": "Github",
+      "url": "https://github.com/shammas-mk",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome"
+      }
+    },
+    {
+      "tooltip": "LinkedIn",
+      "url": "https://www.linkedin.com/in/shammas-mk/",
+      "icon": {
+        "codePoint": "0xeffb",
+        "fontFamily": "FontAwesome"
+      }
+    },
+    {
+      "tooltip": "shammas.dev@gmail.com",
+      "url": "mailto:shammas.dev@gmail.com",
+      "icon": {
+        "codePoint": "0xeaad",
+        "fontFamily": "FontAwesome"
+      }
+    },
+    {
+      "tooltip": "+966 566 294 753",
+      "url": "tel:+966566294753",
+      "icon": {
+        "codePoint": "0xecbb",
+        "fontFamily": "FontAwesome"
+      }
+    }
+  ],
+  "resumes": [
+    {
+      "languageCode": "en",
+      "url": "https://drive.google.com/file/d/1c5DgMq1gIo4TvKbtQAfICmr2aTkeUrGE/view?usp=sharing"
+    },
+    {
+      "languageCode": "ar",
+      "url": "https://drive.google.com/file/d/13_16ezZLQ4XMcOswolYHnI2j68LRPn7E/view?usp=sharing"
+    }
+  ],
+  "aboutDescription": "Innovative and results-driven Flutter Developer with 3+ years of experience in building scalable, high-performance mobile and web applications. Skilled in designing robust app architectures and integrating advanced features such as payment gateways, real-time tracking (Socket.IO), localization, Firebase services, and RESTful APIs. Proficient in state management solutions including GetX, Provider, and Riverpod. Experienced in leading development efforts, collaborating in agile teams, Focused on clean, maintainable code and performance optimization across Android, iOS, and web platforms.",
+  "experiences": [
+    {
+      "role": "Flutter Developer",
+      "company": "Init Lync Technologies Private limited",
+      "description": "At Init Lync Technologies, I worked as a Flutter Developer and was promoted to Team Lead within three months. I led the development of a multi-vendor e-commerce application with integrated payment systems and two-factor authentication, while also managing a team of developers and overseeing the implementation of CI/CD. Our efforts significantly improved user engagement and streamlined the development workflow.",
+      "isPresent": false,
+      "startYear": 2023,
+      "startMonth": 9,
+      "endYear": 2024,
+      "endMonth": 12,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/other/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/other/firebase.svg"
+          }
+        },
+        {
+          "name": "Razor-pay",
+          "icon": {
+            "assetName": "assets/icons/other/razorpay-icon.svg"
+          }
+        },
+        {
+          "name": "Phone-pe",
+          "icon": {
+            "assetName": "assets/icons/other/phonepe-icon.svg"
+          }
+        },
+        {
+          "name": "Paytm",
+          "icon": {
+            "assetName": "assets/icons/other/paytm-icon.svg"
+          }
+        },
+        {
+          "name": "Google Map",
+          "icon": {
+            "assetName": "assets/icons/other/google-map-icon.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://initlync.com",
+          "display": "Init Lync Technologies Pvt Ltd"
+        },
+        {
+          "url": "https://initlync.com/easyclick/",
+          "display": "EasyClick"
+        }
+      ]
+    },
+    {
+      "role": "Flutter Developer",
+      "company": "Ritual Softech",
+      "description": "At Ritual Softech, I developed and delivered two production-ready food delivery applications, SMS Fish and Meat and KKChicken, including modules for users, drivers, and admins. I integrated features such as Firebase OTP authentication, real-time order updates, Google Maps-based location booking, and multiple payment gateways, all built on a scalable and maintainable Flutter architecture.",
+      "isPresent": false,
+      "startYear": 2023,
+      "startMonth": 5,
+      "endYear": 2023,
+      "endMonth": 8,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/other/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/other/firebase.svg"
+          }
+        },
+        {
+          "name": "Google Map",
+          "icon": {
+            "assetName": "assets/icons/other/google-map-icon.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://",
+          "display": "Ritual Softech"
+        }
+      ]
+    },
+    {
+      "role": "Flutter Developer",
+      "company": "Loadrunnr Technologies India Pvt Ltd",
+      "description": "At Loadrunnr Technologies, I contributed to the development of a transportation app with features like multi-stop orders, rental bookings, and real-time delivery tracking. I integrated Paytm payments, Google Maps for live tracking, and implemented multi-language support using GetX with a modular architecture.",
+      "startYear": 2022,
+      "startMonth": 5,
+      "endYear": 2023,
+      "endMonth": 1,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/other/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/other/firebase.svg"
+          }
+        },
+        {
+          "name": "Google Map",
+          "icon": {
+            "assetName": "assets/icons/other/google-map-icon.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://loadrunnr.in",
+          "display": "Loadrunnr Technologies India Pvt Ltd"
+        }
+      ]
+    },
+    {
+      "role": "Flutter Developer",
+      "company": "AppMaking.com",
+      "description": "At AppMaking.com, I worked as a Flutter Developer Intern, focusing on implementing GetX state management, Firebase integration, and RESTful APIs. I contributed to UI enhancements, bug fixing, and overall performance optimization for existing applications.",
+      "startYear": 2021,
+      "startMonth": 10,
+      "endYear": 2022,
+      "endMonth": 1,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/other/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/other/firebase.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://appmaking.com",
+          "display": "AppMaking.com"
+        }
+      ]
+    }
+  ],
+  "present": "Present",
+  "projects": [
+    {
+      "name": "Portfolio",
+      "description": "Responsive personal site with dark mode, internationalization, and Riverpod architecture. Built using Flutter Web and deployed via GitHub Pages.",
+      "url": "https://github.com/shammas-mk/portfolio#readme",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/images/portfolio.png",
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/other/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "",
+          "display": ""
+        }
+      ]
+    },
+    {
+      "name": "Car Control App",
+      "description": "Conceptual Flutter project that simulates remote car control functions (e.g., lock/unlock, lights). Designed a responsive control UI to demonstrate real-world interface building for IoT/connected devices.",
+      "url": "https://github.com/Shammas-mk/car-control-app?tab=readme-ov-file#car_control_app",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/images/car_control.png",
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/other/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ChatGPT App",
+      "description": "A Flutter-based frontend for interacting with OpenAI’s ChatGPT API. Includes async request handling, text stream rendering, and clean user experience design. Built for experimentation with conversational UI/UX.",
+      "url": "https://github.com/Shammas-mk/chat_GPT?tab=readme-ov-file#chat_gpt",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/images/chatgpt.png",
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/other/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dictionary App",
+      "description": "A Flutter app using the Owlbot Dictionary API to fetch word definitions with modern UI, async HTTP calls, and error handling. Demonstrates API integration, JSON parsing, and UI presentation in Flutter.",
+      "url": "https://github.com/Shammas-mk/Dictionary_app?tab=readme-ov-file#dictonaryapp",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/images/dictonary.png",
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/other/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "nativeName": "English",
+      "icon": {
+        "assetName": "assets/icons/flags/united-states-of-america.svg"
+      }
+    },
+    {
+      "code": "ar",
+      "name": "Arabic",
+      "nativeName": "Arabic",
+      "icon": {
+        "assetName": "assets/icons/flags/uae.svg"
+      }
+    }
+  ],
+  "bottomBanner": {
+    "message": "Open source portfolio -",
+    "displayLink": "Fork it",
+    "linkUrl": "https://github.com/AladdineDev/portfolio#readme"
+  },
+  "portfolio": "Portfolio",
+  "homeSectionTitle": "Home",
+  "aboutSectionTitle": "About",
+  "aboutSectionTitleAlt": "About Me",
+  "experienceSectionTitle": "Experience",
+  "projectsSectionTitle": "Projects",
+  "resume": "Resume",
+  "downloadResume": "Download resume",
+  "openUrlError": "Could not open the url",
+  "unknownLanguageError": "Language unknown"
+};
+static const Map<String,dynamic> _ar = {
+  "name": "شماس م ك",
+  "description": "مطور رفرفة",
+  "subDescription": "مطور تطبيقات منصة عبر",
+  "contacts": [
+    {
+      "tooltip": "Github",
+      "url": "https://github.com/shammas-mk",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome"
+      }
+    },
+    {
+      "tooltip": "LinkedIn",
+      "url": "https://www.linkedin.com/in/shammas-mk/",
+      "icon": {
+        "codePoint": "0xeffb",
+        "fontFamily": "FontAwesome"
+      }
+    },
+    {
+      "tooltip": "shammas.dev@gmail.com",
+      "url": "mailto:shammas.dev@gmail.com",
+      "icon": {
+        "codePoint": "0xeaad",
+        "fontFamily": "FontAwesome"
+      }
+    },
+    {
+      "tooltip": "+966 566 294 753",
+      "url": "tel:+966566294753",
+      "icon": {
+        "codePoint": "0xecbb",
+        "fontFamily": "FontAwesome"
+      }
+    }
+  ],
+  "resumes": [
+    {
+      "languageCode": "en",
+      "url": "https://drive.google.com/file/d/1c5DgMq1gIo4TvKbtQAfICmr2aTkeUrGE/view?usp=sharing"
+    },
+    {
+      "languageCode": "ar",
+      "url": "https://drive.google.com/file/d/13_16ezZLQ4XMcOswolYHnI2j68LRPn7E/view?usp=sharing"
+    }
+  ],
+  "aboutDescription": "مطور رفرفة مبتكر وقائم على النتائج مع خبرة 3+ سنوات في بناء تطبيقات الهاتف المحمول والمواقع القابلة للتطوير وعالية الأداء. ماهر في تصميم بنيات التطبيقات القوية ودمج الميزات المتقدمة مثل بوابات الدفع ، تتبع الوقت الحقيقي (Socket.io) ، التوطين ، خدمات Firebase ، واجهات برمجة التطبيقات المريحة. أستاذ في حلول إدارة الدولة بما في ذلك GETX ، مزود ، و RiverPod. ركزت من ذوي الخبرة في جهود التطوير الرائدة ، والتعاون في فرق Agile ، على التعليمات البرمجية النظيفة والصيانة وتحسين الأداء عبر نظام Android و iOS و Web Platforms.",
+  "experiences": [
+    {
+      "role": "مطور رفرفة",
+      "company": "Init Lync Technologies Private limited",
+      "description": "في Init Lync Technologies ، عملت كتطوير رفرفة وتم ترقيته إلى قيادة الفريق في غضون ثلاثة أشهر. قادت تطوير تطبيق للتجارة الإلكترونية متعددة البائعين مع أنظمة الدفع المتكاملة والمصادقة ثنائية العوامل ، مع إدارة فريق من المطورين والإشراف على تنفيذ CI/CD. لا توجد جهود تحسنت بشكل كبير من مشاركة المستخدم وتبسيط سير عمل التطوير.",
+      "isPresent": false,
+      "startYear": 2023,
+      "startMonth": 9,
+      "endYear": 2024,
+      "endMonth": 12,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/other/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/other/firebase.svg"
+          }
+        },
+        {
+          "name": "Razor-pay",
+          "icon": {
+            "assetName": "assets/icons/other/razorpay-icon.svg"
+          }
+        },
+        {
+          "name": "Phone-pe",
+          "icon": {
+            "assetName": "assets/icons/other/phonepe-icon.svg"
+          }
+        },
+        {
+          "name": "Paytm",
+          "icon": {
+            "assetName": "assets/icons/other/paytm-icon.svg"
+          }
+        },
+        {
+          "name": "Google Map",
+          "icon": {
+            "assetName": "assets/icons/other/google-map-icon.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://initlync.com",
+          "display": "Init Lync Technologies Pvt Ltd"
+        },
+        {
+          "url": "https://initlync.com/easyclick/",
+          "display": "EasyClick"
+        }
+      ]
+    },
+    {
+      "role": "مطور رفرفة",
+      "company": "Ritual Softech",
+      "description": "في طقوس Softech ، قمت بتطوير وتسليم اثنين من تطبيقات توصيل الأغذية جاهزة للإنتاج ، وأسماك الرسائل القصيرة واللحوم و Kkchicken ، بما في ذلك وحدات المستخدمين والسائقين والمستعمدين. أنا متكامل ميزات مثل مصادقة Firebase OTP ، وتحديثات الطلب في الوقت الفعلي ، وحجز الإيجار المستندة إلى خرائط Google ، وبوابات الدفع المتعددة ، وكلها بناء على بنية الرفرفة القابلة للتطوير والرافعة الرئيسية.",
+      "isPresent": false,
+      "startYear": 2023,
+      "startMonth": 5,
+      "endYear": 2023,
+      "endMonth": 8,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/other/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/other/firebase.svg"
+          }
+        },
+        {
+          "name": "Google Map",
+          "icon": {
+            "assetName": "assets/icons/other/google-map-icon.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://",
+          "display": "Ritual Softech"
+        }
+      ]
+    },
+    {
+      "role": "مطور رفرفة",
+      "company": "Loadrunnr Technologies India Pvt Ltd",
+      "description": "في تقنيات LoadRunnr ، ساهمت في تطوير تطبيق للنقل مع ميزات مثل الطلبات المتعددة ، وحجوزات الإيجار ، وتتبع التسليم في الوقت الفعلي. لقد قمت بدمج مدفوعات Paytm ، وخرائط Google للتتبع المباشر ، وقمت بتطبيق دعم متعدد اللغات باستخدام Getx مع بنية معيارية.",
+      "startYear": 2022,
+      "startMonth": 5,
+      "endYear": 2023,
+      "endMonth": 1,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/other/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/other/firebase.svg"
+          }
+        },
+        {
+          "name": "Google Map",
+          "icon": {
+            "assetName": "assets/icons/other/google-map-icon.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://loadrunnr.in",
+          "display": "Loadrunnr Technologies India Pvt Ltd"
+        }
+      ]
+    },
+    {
+      "role": "مطور رفرفة",
+      "company": "AppMaking.com",
+      "description": "في appmaking.com ، عملت بصفتي ماجور ردرر إيرست ، مع التركيز على الإجراءات التبعية لإدارة ولاية GETX ، وتكامل Firebase ، وواجهة برمجة التطبيقات المريحة. لقد ساهمت في تحسينات واجهة المستخدم ، وتحديد الأخطاء ، وتحسين الأداء العام للتطبيقات الحالية.",
+      "startYear": 2021,
+      "startMonth": 10,
+      "endYear": 2022,
+      "endMonth": 1,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/other/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/other/firebase.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://appmaking.com",
+          "display": "AppMaking.com"
+        }
+      ]
+    }
+  ],
+  "present": "Present",
+  "projects": [
+    {
+      "name": "مَلَفّ",
+      "description": "الموقع الشخصي المستجيب مع الوضع المظلم ، التدويل ، الهندسة المعمارية RiverPod. تم تصميمه باستخدام الويب Flutter ونشره عبر صفحات GitHub.",
+      "url": "https://github.com/shammas-mk/portfolio#readme",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/images/portfolio.png",
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/other/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "",
+          "display": ""
+        }
+      ]
+    },
+    {
+      "name": "لأن تطبيق التحكم",
+      "description": "مشروع الرفرفة المفاهيمي الذي يحاكي وظائف التحكم في السيارة عن بُعد (على سبيل المثال ، قفل/إلغاء القفل ، الأضواء). صمم واجهة مستخدم مستجيب لإظهار بناء واجهة العالم الحقيقي لأجهزة إنترنت الأشياء/المتصلة.",
+      "url": "https://github.com/Shammas-mk/car-control-app?tab=readme-ov-file#car_control_app",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/images/car_control.png",
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/other/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        }
+      ]
+    },
+    {
+      "name": "تطبيق chatgpt",
+      "description": "تقديري قائم على الرفرفة للتفاعل مع API atchgpt من Openai. يتضمن معالجة طلبات ASYNC ، وتقديم دفق النص ، وتصميم تجربة المستخدم النظيفة. بنيت للتجربة مع واجهة المستخدم المحادثة/UX.",
+      "url": "https://github.com/Shammas-mk/chat_GPT?tab=readme-ov-file#chat_gpt",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/images/chatgpt.png",
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/other/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        }
+      ]
+    },
+    {
+      "name": "تطبيق القاموس",
+      "description": "تطبيق رفرفة باستخدام واجهة برمجة تطبيقات قاموس Owlbot لجلب تعريفات الكلمات باستخدام واجهة المستخدم الحديثة ، ومكالمات HTTP Async ، ومعالجة الأخطاء. يوضح تكامل API ، تحليل JSON ، وعرض واجهة المستخدم في الرفرفة.",
+      "url": "https://github.com/Shammas-mk/Dictionary_app?tab=readme-ov-file#dictonaryapp",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/images/dictonary.png",
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/other/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "code": "en",
+      "name": "إنجليزي",
+      "nativeName": "إنجليزي",
+      "icon": {
+        "assetName": "assets/icons/flags/united-states-of-america.svg"
+      }
+    },
+    {
+      "code": "ar",
+      "name": "عربي",
+      "nativeName": "عربي",
+      "icon": {
+        "assetName": "assets/icons/flags/uae.svg"
+      }
+    }
+  ],
+  "bottomBanner": {
+    "message": "Open source portfolio -",
+    "displayLink": "Fork it",
+    "linkUrl": "https://github.com/AladdineDev/portfolio#readme"
+  },
+  "portfolio": "مَلَفّ",
+  "homeSectionTitle": "بيت",
+  "aboutSectionTitle": "عن",
+  "aboutSectionTitleAlt": "ْعَنِّي",
+  "experienceSectionTitle": "خبرة",
+  "projectsSectionTitle": "المشاريع",
+  "resume": "ملخص",
+  "downloadResume": "قم بتنزيل ملخص",
+  "openUrlError": "لا يمكن فتح عنوان URL",
+  "unknownLanguageError": "لغة غير معروفة"
+};
+static const Map<String, Map<String,dynamic>> mapLocales = {"en": _en, "ar": _ar};
+}
