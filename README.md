@@ -1,5 +1,5 @@
 
-# Flutter Portfolio – Shammas Muhammed
+# Flutter Portfolio – Shammas Mk
 
 A fully responsive, open-source personal portfolio built with **Flutter Web** and **Riverpod**, designed to showcase your work across mobile, tablet, and desktop. This project supports multilingual content (including **Arabic RTL**), theming, and clean modular structure.
 
