@@ -37,7 +37,7 @@ class MyAppBar extends ConsumerWidget {
                   child: Row(
                     mainAxisSize: MainAxisSize.min,
                     children: [
-                      const Icon(
+                      Icon(
                         IconData(
                           0xedc3,
                           fontFamily: "FontAwesome",
