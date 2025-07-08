@@ -1,0 +1,377 @@
+{
+    "name": "شماس م ك",
+    "description": "مطور رفرفة",
+    "subDescription": "مطور تطبيقات منصة عبر",
+    "contacts": [
+        {
+            "tooltip": "Github",
+            "url": "https://github.com/shammas-mk",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome"
+            }
+        },
+        {
+            "tooltip": "LinkedIn",
+            "url": "https://www.linkedin.com/in/shammas-mk/",
+            "icon": {
+                "codePoint": "0xeffb",
+                "fontFamily": "FontAwesome"
+            }
+        },
+        {
+            "tooltip": "shammas.dev@gmail.com",
+            "url": "mailto:shammas.dev@gmail.com",
+            "icon": {
+                "codePoint": "0xeaad",
+                "fontFamily": "FontAwesome"
+            }
+        },
+        {
+            "tooltip": "+966 566 294 753",
+            "url": "tel:+966566294753",
+            "icon": {
+                "codePoint": "0xecbb",
+                "fontFamily": "FontAwesome"
+            }
+        }
+    ],
+    "resumes": [
+        {
+            "languageCode": "en",
+            "url": "https://drive.google.com/file/d/1c5DgMq1gIo4TvKbtQAfICmr2aTkeUrGE/view?usp=sharing"
+        },
+        {
+            "languageCode": "ar",
+            "url": "https://drive.google.com/file/d/13_16ezZLQ4XMcOswolYHnI2j68LRPn7E/view?usp=sharing"
+        }
+    ],
+    "aboutDescription": "مطور رفرفة مبتكر وقائم على النتائج مع خبرة 3+ سنوات في بناء تطبيقات الهاتف المحمول والمواقع القابلة للتطوير وعالية الأداء. ماهر في تصميم بنيات التطبيقات القوية ودمج الميزات المتقدمة مثل بوابات الدفع ، تتبع الوقت الحقيقي (Socket.io) ، التوطين ، خدمات Firebase ، واجهات برمجة التطبيقات المريحة. أستاذ في حلول إدارة الدولة بما في ذلك GETX ، مزود ، و RiverPod. ركزت من ذوي الخبرة في جهود التطوير الرائدة ، والتعاون في فرق Agile ، على التعليمات البرمجية النظيفة والصيانة وتحسين الأداء عبر نظام Android و iOS و Web Platforms.",
+    "experiences": [
+        {
+            "role": "مطور رفرفة",
+            "company": "Init Lync Technologies Private limited",
+            "description": "في Init Lync Technologies ، عملت كتطوير رفرفة وتم ترقيته إلى قيادة الفريق في غضون ثلاثة أشهر. قادت تطوير تطبيق للتجارة الإلكترونية متعددة البائعين مع أنظمة الدفع المتكاملة والمصادقة ثنائية العوامل ، مع إدارة فريق من المطورين والإشراف على تنفيذ CI/CD. لا توجد جهود تحسنت بشكل كبير من مشاركة المستخدم وتبسيط سير عمل التطوير.",
+            "isPresent": false,
+            "startYear": 2023,
+            "startMonth": 9,
+            "endYear": 2024,
+            "endMonth": 12,
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/other/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/icons/other/firebase.svg"
+                    }
+                },
+                {
+                    "name": "Razor-pay",
+                    "icon": {
+                        "assetName": "assets/icons/other/razorpay-icon.svg"
+                    }
+                },
+                {
+                    "name": "Phone-pe",
+                    "icon": {
+                        "assetName": "assets/icons/other/phonepe-icon.svg"
+                    }
+                },
+                {
+                    "name": "Paytm",
+                    "icon": {
+                        "assetName": "assets/icons/other/paytm-icon.svg"
+                    }
+                },
+                {
+                    "name": "Google Map",
+                    "icon": {
+                        "assetName": "assets/icons/other/google-map-icon.svg"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://initlync.com",
+                    "display": "Init Lync Technologies Pvt Ltd"
+                },
+                {
+                    "url": "https://initlync.com/easyclick/",
+                    "display": "EasyClick"
+                }
+            ]
+        },
+        {
+            "role": "مطور رفرفة",
+            "company": "Ritual Softech",
+            "description": "في طقوس Softech ، قمت بتطوير وتسليم اثنين من تطبيقات توصيل الأغذية جاهزة للإنتاج ، وأسماك الرسائل القصيرة واللحوم و Kkchicken ، بما في ذلك وحدات المستخدمين والسائقين والمستعمدين. أنا متكامل ميزات مثل مصادقة Firebase OTP ، وتحديثات الطلب في الوقت الفعلي ، وحجز الإيجار المستندة إلى خرائط Google ، وبوابات الدفع المتعددة ، وكلها بناء على بنية الرفرفة القابلة للتطوير والرافعة الرئيسية.",
+            "isPresent": false,
+            "startYear": 2023,
+            "startMonth": 5,
+            "endYear": 2023,
+            "endMonth": 8,
+            "technologies": [
+               {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/other/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/icons/other/firebase.svg"
+                    }
+                },
+                {
+                    "name": "Google Map",
+                    "icon": {
+                        "assetName": "assets/icons/other/google-map-icon.svg"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://",
+                    "display": "Ritual Softech"
+                }
+            ]
+        },
+        {
+            "role": "مطور رفرفة",
+            "company": "Loadrunnr Technologies India Pvt Ltd",
+            "description": "في تقنيات LoadRunnr ، ساهمت في تطوير تطبيق للنقل مع ميزات مثل الطلبات المتعددة ، وحجوزات الإيجار ، وتتبع التسليم في الوقت الفعلي. لقد قمت بدمج مدفوعات Paytm ، وخرائط Google للتتبع المباشر ، وقمت بتطبيق دعم متعدد اللغات باستخدام Getx مع بنية معيارية.",
+            "startYear": 2022,
+            "startMonth": 5,
+            "endYear": 2023,
+            "endMonth": 1,
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/other/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/icons/other/firebase.svg"
+                    }
+                },
+                {
+                    "name": "Google Map",
+                    "icon": {
+                        "assetName": "assets/icons/other/google-map-icon.svg"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://loadrunnr.in",
+                    "display": "Loadrunnr Technologies India Pvt Ltd"
+                }
+            ]
+        },
+        {
+            "role": "مطور رفرفة",
+            "company": "AppMaking.com",
+            "description": "في appmaking.com ، عملت بصفتي ماجور ردرر إيرست ، مع التركيز على الإجراءات التبعية لإدارة ولاية GETX ، وتكامل Firebase ، وواجهة برمجة التطبيقات المريحة. لقد ساهمت في تحسينات واجهة المستخدم ، وتحديد الأخطاء ، وتحسين الأداء العام للتطبيقات الحالية.",
+            "startYear": 2021,
+            "startMonth": 10,
+            "endYear": 2022,
+            "endMonth": 1,
+            "technologies": [
+               {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/other/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/icons/other/firebase.svg"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://appmaking.com",
+                    "display": "AppMaking.com"
+                }
+            ]
+        }
+    ],
+    "present": "Present",
+    "projects": [
+        {
+            "name": "مَلَفّ",
+            "description": "الموقع الشخصي المستجيب مع الوضع المظلم ، التدويل ، الهندسة المعمارية RiverPod. تم تصميمه باستخدام الويب Flutter ونشره عبر صفحات GitHub.",
+            "url": "https://github.com/shammas-mk/portfolio#readme",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/portfolio.png",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/other/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "",
+                    "display": ""
+                }
+            ]
+        },
+        {
+            "name": "لأن تطبيق التحكم",
+            "description": "مشروع الرفرفة المفاهيمي الذي يحاكي وظائف التحكم في السيارة عن بُعد (على سبيل المثال ، قفل/إلغاء القفل ، الأضواء). صمم واجهة مستخدم مستجيب لإظهار بناء واجهة العالم الحقيقي لأجهزة إنترنت الأشياء/المتصلة.",
+            "url": "https://github.com/Shammas-mk/car-control-app?tab=readme-ov-file#car_control_app",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/car_control.png",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/other/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "تطبيق chatgpt",
+            "description": "تقديري قائم على الرفرفة للتفاعل مع API atchgpt من Openai. يتضمن معالجة طلبات ASYNC ، وتقديم دفق النص ، وتصميم تجربة المستخدم النظيفة. بنيت للتجربة مع واجهة المستخدم المحادثة/UX.",
+            "url": "https://github.com/Shammas-mk/chat_GPT?tab=readme-ov-file#chat_gpt",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/chatgpt.png",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/other/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "تطبيق القاموس",
+            "description": "تطبيق رفرفة باستخدام واجهة برمجة تطبيقات قاموس Owlbot لجلب تعريفات الكلمات باستخدام واجهة المستخدم الحديثة ، ومكالمات HTTP Async ، ومعالجة الأخطاء. يوضح تكامل API ، تحليل JSON ، وعرض واجهة المستخدم في الرفرفة.",
+            "url": "https://github.com/Shammas-mk/Dictionary_app?tab=readme-ov-file#dictonaryapp",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/dictonary.png",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/other/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                }
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "code": "en",
+            "name": "إنجليزي",
+            "nativeName": "إنجليزي",
+            "icon": {
+                "assetName": "assets/icons/flags/united-states-of-america.svg"
+            }
+        },
+        
+        {
+            "code": "ar",
+            "name": "عربي",
+            "nativeName": "عربي",
+            "icon": {
+                "assetName": "assets/icons/flags/uae.svg"
+            }
+        }
+    ],
+    "bottomBanner": {
+        "message": "Open source portfolio -",
+        "displayLink": "Fork it",
+        "linkUrl": "https://github.com/AladdineDev/portfolio#readme"
+    },
+    "portfolio": "مَلَفّ",
+    "homeSectionTitle": "بيت",
+    "aboutSectionTitle": "عن",
+    "aboutSectionTitleAlt": "ْعَنِّي",
+    "experienceSectionTitle": "خبرة",
+    "projectsSectionTitle": "المشاريع",
+    "resume": "ملخص",
+    "downloadResume": "قم بتنزيل ملخص",
+    "openUrlError": "لا يمكن فتح عنوان URL",
+    "unknownLanguageError": "لغة غير معروفة"
+}
