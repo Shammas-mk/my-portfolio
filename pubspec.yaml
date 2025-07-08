@@ -51,6 +51,7 @@ flutter:
     - assets/fonts/
     - assets/icons/flags/
     - assets/icons/other/
+    - assets/icons/software-development/
     - assets/images/
     - assets/translations/
 
